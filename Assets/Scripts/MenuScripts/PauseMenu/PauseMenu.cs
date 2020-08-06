@@ -56,6 +56,14 @@ public class PauseMenu : MonoBehaviour
         GameIsPaused = false;
     }
 
+    public void ReloadLevel()
+    {
+        // Update Timescale back to 1
+        Time.timeScale = 1f;
+        // Load Current scene based on the active scene
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
     public void QuitGame()
     {
         // Update Timescale back to 1

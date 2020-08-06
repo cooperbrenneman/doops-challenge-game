@@ -593,7 +593,6 @@ MonoBehaviour:
     X: 15
     Y: 17
   Exit: {fileID: 4074682261843944067, guid: e78bdb974a5e89146966aca5ff3d1252, type: 3}
-  Help: {fileID: 0}
   Door_Blue: {fileID: 336847534209908676, guid: e68aacc65f5ce5244a9c412c50354d0d,
     type: 3}
   Door_Green: {fileID: 6524012289940892732, guid: 60463c3714facbd4d8d4014e91a69204,
