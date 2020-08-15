@@ -1,6 +1,6 @@
 # Doop's Challenge
-![Level 3 Screenshot](Screenshots/Level3.png)
-![Ending Screenshot](Screenshots/EndScene.png)
+![Level 3 Screenshot](Screenshots/Level3.PNG)
+![Ending Screenshot](Screenshots/EndScene.PNG)
 ## Inspiration
 Doop's Challenge is a clone of [Chip's Challenge](https://en.wikipedia.org/wiki/Chip%27s_Challenge), a top-down tile-based video game originally created in 1989. Doop's Challenge clones the first three levels of the original game. Instead of Chip as the protagonist, it is the dog nicknamed "Doop".
 
